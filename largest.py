@@ -7,4 +7,4 @@ if(x>y):
 elif(y>x):
     print("{0} is greater than {1}".format(y,x))
 else:
-    print("both x and y are equal")
+    print("both x and y are equal there is no difference")
